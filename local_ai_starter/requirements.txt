@@ -1,0 +1,9 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+jinja2
+tqdm
+python-dotenv
+huggingface_hub
